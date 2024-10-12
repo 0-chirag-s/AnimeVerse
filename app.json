@@ -1,0 +1,10 @@
+{
+    "name": "animeverse Clone",
+    "description": "Unlimited Steaming Anime On animeverse Clone",
+    "keywords": ["php", "animeverse", "animeverse-clone", "api", "streaming"],
+    "website": "https://github.com/shashankktiwariii/animeverse-clone#readme",
+    "repository": "https://github.com/shashankktiwariii/animeverse-clone",
+    "download": "https://animeversetv.ga/img/genkai.gif",
+    "image": "heroku/php",
+    "stack": "heroku-22"
+}
